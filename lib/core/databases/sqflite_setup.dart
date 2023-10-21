@@ -62,7 +62,7 @@ class DBProvider {
             )
             """);
           log.i("  All create queries executed successfully");
-          log.i("Inserting welcome note");
+          log.i(" Inserting welcome note");
 
           // As soon as the tables are created, insert a welcome note
           // Check if there are no records in the notes table before inserting the initial data
